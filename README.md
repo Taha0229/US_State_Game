@@ -1,5 +1,5 @@
 <h1>US-STATE-GAME</h1>
-<p>This is one of the very first Python programmes I have written, and this is also one of my favourite beginner's programmes.</p>
+<p>This is one of the very first Python programmes I have written, and this is also one of my favourite beginner's progam</p>
 <br>
 <h1>How to run it?</h1>
 <p>1. Fork and Pull the project on your local machine</p>
