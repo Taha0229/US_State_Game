@@ -8,3 +8,5 @@
 <br>
 <h1>What is this game about?</h1>
 <p>So when you run the program, a turtle window will open with a map of the USA. In an input bar, you will be asked to guess the states of the USA. If your answer is correct, the empty map will be filled with the name of the corresponding state. </p>
+<p>Use this link to run it on replit:</p>
+<a href="https://replit.com/@Sheikh-TahaTaha/USStateGame?v=1">https://replit.com/@Sheikh-TahaTaha/USStateGame?v=1</a>
